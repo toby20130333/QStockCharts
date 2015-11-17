@@ -1,0 +1,18 @@
+<RCC>
+    <qresource prefix="/">
+        <file>btn3_on.png</file>
+        <file>btn4_off.png</file>
+        <file>btn4_on.png</file>
+        <file>btn5_off.png</file>
+        <file>btn5_on.png</file>
+        <file>btn6_off.png</file>
+        <file>btn6_on.png</file>
+        <file>btn7_off.png</file>
+        <file>btn7_on.png</file>
+        <file>btn1_off.png</file>
+        <file>btn1_on.png</file>
+        <file>btn2_off.png</file>
+        <file>btn2_on.png</file>
+        <file>btn3_off.png</file>
+    </qresource>
+</RCC>
